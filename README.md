@@ -11,8 +11,6 @@ A simple and clean weather app built using **HTML**, **CSS**, and **JavaScript**
 - Clean UI with responsive card layout
 - Dynamic emoji for weather conditions
 - Input validation with error handling
-- Font size adjustment for long city names
-- Shadow effect on weather emoji
 
 ## 🖼️ Demo
 
