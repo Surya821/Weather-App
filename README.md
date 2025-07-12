@@ -17,7 +17,7 @@ A simple and clean weather app built using **HTML**, **CSS**, and **JavaScript**
 ## 🖼️ Demo
 
 You can try a live demo of the project here:  
-**[Live Demo Link](#)** 
+**[[Live Demo Link](https://surya821.github.io/Weather-App/)](#)** 
 
 ## 🚀 Getting Started
 
