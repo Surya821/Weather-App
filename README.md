@@ -3,7 +3,7 @@
 
 A simple and clean weather app built using **HTML**, **CSS**, and **JavaScript**. It allows users to search for any city and get current weather data such as temperature, humidity, description, and an emoji representing the weather condition.
 
-![weather-app-preview](preview.png)
+![weather-app-preview](demo.png)
 
 ## 🔧 Features
 
