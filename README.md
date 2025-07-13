@@ -36,27 +36,21 @@ A sleek and responsive weather application built using **HTML**, **CSS**, and **
    ```bash
    git clone https://github.com/Surya821/Weather-App.git
    cd Weather-App
-Set up your API key:
+2. Set up your API key:
 
-Go to OpenWeatherMap and create an account.
+   Go to OpenWeatherMap and create an account.
 
-Get your API key from the dashboard.
+   Get your API key from the dashboard.
 
-Open script.js and replace the following line:
+   Open script.js and replace the following line:
+   
+   const apiKey = "YOUR_API_KEY_HERE";
+   with your actual API key.
 
-javascript
-Copy
-Edit
-const apiKey = "YOUR_API_KEY_HERE";
-with your actual API key.
-
-Open index.html in your browser
+3. Open index.html in your browser
 That’s it — no server or framework required.
 
 📁 Project Structure
-graphql
-Copy
-Edit
 Weather-App/
 ├── index.html       # Main webpage
 ├── style.css        # Styles and layout
